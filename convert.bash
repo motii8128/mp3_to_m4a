@@ -1,0 +1,1 @@
+sudo ffmpeg -i $1.wav $1.m4a
