@@ -1,2 +1,16 @@
 # mp3_to_m4a
-Convert .mp3 music file to m4a for play on iPhone
+Convert .wav music file to m4a for play on iPhone
+
+# Usage
+Run
+```sh
+sudo apt install ffmpeg
+```
+
+```sh
+chmod +x ./convert.bash
+```
+
+```sh
+./convert.bash "~~.wav"
+```
