@@ -1,4 +1,4 @@
-# mp3_to_m4a
+# wav_to_m4a
 Convert .wav music file to m4a for play on iPhone
 
 # Usage
